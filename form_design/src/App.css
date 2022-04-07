@@ -41,10 +41,18 @@ background-color: beige;
   }
 }
 body{
-  background-color: aquamarine;
+  background-color: rgb(217, 255, 127);
   width: 500px;
   height: auto;
   max-width: 600px;
   margin: 0px auto;
   border: 1px solid black;  
+}
+.edit{
+  color: #fb6161;
+  line-height: 50px;
+
+}
+.pick{
+  text-align: center; 
 }
